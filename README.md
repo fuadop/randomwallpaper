@@ -31,4 +31,4 @@ randomwallpaper
 
 after running the above command in your terminal your wallpaper should be changed to a random wallpaper from the internet.
 
-![usage.gif](/assets/usage.gif)
+![usage.gif](/usage.gif)
