@@ -31,4 +31,4 @@ randomwallpaper
 
 after running the above command in your terminal your wallpaper should be changed to a random wallpaper from the internet.
 
-![usage.gif](https://res.cloudinary.com/fuadop/image/upload/v1605052851/usage_expih3.gif)
+![usage.gif](/assets/usage.gif)
